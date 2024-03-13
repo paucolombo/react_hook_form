@@ -6,7 +6,7 @@
 body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
-  background-image: url(img.jpg);
+  background-image: url(/img.jpg);
   background-size: cover;
 }
 main {
